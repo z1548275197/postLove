@@ -20,7 +20,7 @@ export const textTemplate = (data: TextTemplateProps) => {
   else {
     text += `
 如果我的包包还没起床呀！老公就等着包包起床给我说早安呦🤣
-嗯哼~，既然今天是${week}，就让你再睡会懒觉~~下次可不能啦~😝\n`
+嗯哼~，既然今天是${week}，就让你再睡会懒觉~下次可不能啦~😝\n`
   }
 
   // 添加笑话
